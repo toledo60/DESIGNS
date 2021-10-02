@@ -5,6 +5,7 @@ A collection of designs used in Design of Experiments
 The following designs are currently available in `DESIGNS`
 
 - Selected 2-level fractional factorial designs
+- Selected orthogonal arrays
 - Definitive screening designs
 - Definitive screening composite designs
 
