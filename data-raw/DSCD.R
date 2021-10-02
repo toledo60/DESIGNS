@@ -1,0 +1,10 @@
+source(paste0(rprojroot::find_rstudio_root_file(),'/R/definitive_screening_designs.R'))
+source(paste0(rprojroot::find_rstudio_root_file(),'/R/ffd-2lvl.R'))
+
+k4_dscd <- rbind(k4_2lvl_ffd,k4_dsd)
+k5_dscd <- rbind(k5_2lvl_ffd,k5_dsd)
+k6_dscd <- rbind(k6_2lvl_ffd,k6_dsd)
+k7_dscd <- rbind(k7_2lvl_ffd,k7_dsd)
+k8_dscd <- rbind(k8_2lvl_ffd,k8_dsd)
+k9_dscd <- rbind(k9_2lvl_ffd,k9_dsd)
+k10_dscd <- rbind(k10_2lvl_ffd,k10_dsd)
