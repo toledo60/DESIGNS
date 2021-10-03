@@ -1,6 +1,6 @@
 # DESIGNS
 
-A collection of designs used in Design of Experiments
+A collection of designs used for Design of Experiments. Most of these designs are used in my current research, so I've made a quick way to access them by creating this package.
 
 The following designs are currently available in `DESIGNS`
 
