@@ -1,13 +1,13 @@
 Package: DESIGNS
 Type: Package
 Title: Catalog of Experimental Designs
-Version: 0.1.4
+Version: 0.1.6
 Authors@R: c(person(given = "Jose",family = "Toledo Luna",
              role = c("aut", "cre"),
              email = "toledojose60@gmail.com",
              comment = c(ORCID = "0000-0001-8559-0027")))
 Maintainer: Jose Toledo Luna <toledojose60@gmail.com>
-Description: A collection of designs used in Design of Experiments.
+Description: A random collection of designs used for Design of Experiments.
 Encoding: UTF-8
 LazyData: true
 Depends: 
