@@ -2,10 +2,11 @@
 
 A collection of designs used for Design of Experiments. Most of these designs are used in my current research, so I've made a quick way to access them by creating this package.
 
-The following designs are currently available in `DESIGNS`
+The following types of designs are currently available in `DESIGNS`
 
-- Selected 2-level fractional factorial designs
-- Selected orthogonal arrays
+- 2-level fractional factorial designs
+- Orthogonal arrays
+- Conference designs
 - Definitive screening designs
 - Definitive screening composite designs
 
