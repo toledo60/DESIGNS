@@ -1,0 +1,10 @@
+source(paste0(rprojroot::find_rstudio_root_file(),'/data-raw/orthogonal arrays.R'))
+source(paste0(rprojroot::find_rstudio_root_file(),'/data-raw/ffd-2lvl.R'))
+
+oacd4 <- rbind(k4_2lvl_ffd,oa.9.4.3.2[,1:4]-1)
+oacd5 <- rbind(k5_2lvl_ffd,oa.18.7.3.2[,1:5]-1)
+oacd6 <- rbind(k6_2lvl_ffd,oa.18.7.3.2[,1:6]-1)
+oacd7 <- rbind(k7_2lvl_ffd,oa.18.7.3.2[,1:7]-1)
+oacd8 <- rbind(k8_2lvl_ffd,oa.27.13.3.2[,1:8]-1)
+oacd9 <- rbind(k9_2lvl_ffd,oa.27.13.3.2[,1:9]-1)
+oacd10 <- rbind(k10_2lvl_ffd,oa.27.13.3.2[,1:10]-1)

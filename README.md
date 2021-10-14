@@ -4,11 +4,12 @@ A collection of designs used for Design of Experiments. Most of these designs ar
 
 The following types of designs are currently available in `DESIGNS`
 
--   2-level fractional factorial designs
--   Orthogonal arrays
--   Conference matrices
--   Definitive screening designs
--   Definitive screening composite designs
+- 2-level fractional factorial designs
+- Orthogonal arrays
+- Conference matrices
+- Definitive screening designs
+- Orthogonal Array Composite Designs
+- Definitive screening composite designs
 
 ## Installation
 
@@ -68,6 +69,13 @@ For k = 2-12 (even only), the conference matrices were obtained from the followi
 The designs were obtained from the following paper:
 
 *Bradley Jones & Christopher J. Nachtsheim (2011) A Class of Three-Level Designs for Definitive Screening in the Presence of Second-Order Effects, Journal of Quality Technology, 43:1, 1-15, DOI: 10.1080/00224065.2011.11917841*
+
+### Orthogonal Array Composite Designs
+
+These designs were obtained by combining the two-level fractional factorial designs and specific three-level orthogonal arrays from this package. These designs were constructed to match the following paper:
+
+*Yong-Dao Zhou & Hongquan Xu (2017) Composite Designs Based on Orthogonal Arrays and Definitive Screening Designs, Journal of the American Statistical Association, 112:520, 1675-1683, DOI: 10.1080/01621459.2016.1228535*
+
 
 ### Definitive Screening Composite Designs
 
