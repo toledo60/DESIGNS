@@ -15,3 +15,18 @@ conf10 = as.matrix(read.table("data-raw/Conference/c10.txt",
 
 conf12 = as.matrix(read.table("data-raw/Conference/c12.txt",
                                quote="\"", comment.char=""))
+
+conf14 = as.matrix(read.table("data-raw/Conference/c14.txt",
+                              quote="\"", comment.char=""))
+
+conf16 = as.matrix(read.table("data-raw/Conference/c16.txt",
+                              quote="\"", comment.char=""))
+
+conf18 = as.matrix(read.table("data-raw/Conference/c18.txt",
+                              quote="\"", comment.char=""))
+
+conf20 = as.matrix(read.table("data-raw/Conference/c20.txt",
+                              quote="\"", comment.char=""))
+
+conf24 = as.matrix(read.table("data-raw/Conference/c24.txt",
+                              quote="\"", comment.char=""))

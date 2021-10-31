@@ -60,7 +60,7 @@ where a file **oa.N.k.s.t.name** indicates an orthogonal array with N runs, k fa
 
 ### Conference Matrices
 
-For k = 2-12 (even only), the conference matrices were obtained from the following paper:
+For k = 2-24 (even only), the conference matrices were obtained from the following paper:
 
 *Alan R. Vazquez, Peter Goos & Eric D. Schoen (2020) Projections of Definitive Screening Designs by Dropping Columns: Selection and Evaluation, Technometrics, 62:1, 37-47, DOI: 10.1080/00401706.2019.1566095*
 
