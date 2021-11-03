@@ -1,7 +1,7 @@
 Package: DESIGNS
 Type: Package
 Title: Random Collection of Designs for Design of Experiments
-Version: 0.1.9
+Version: 0.2
 Authors@R: c(person(given = "Jose",family = "Toledo Luna",
              role = c("aut", "cre"),
              email = "toledojose60@gmail.com",

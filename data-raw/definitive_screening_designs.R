@@ -30,9 +30,9 @@ k12_dsd = as.matrix(read.table("data-raw/DSD/k12_dsd.txt",
 # from conference matrices ------------------------------------------------
 source(paste0(rprojroot::find_rstudio_root_file(),'/data-raw/conference_designs.R'))
 
-k14_dsd = rbind(conf14,-conf14,0)
-k16_dsd = rbind(conf16,-conf16,0)
-k18_dsd = rbind(conf18,-conf18,0)
-k20_dsd = rbind(conf20,-conf20,0)
-k24_dsd = rbind(conf24,-conf24,0)
+k14_dsd = rbind(conf14,-conf14[14:1,],0)
+k16_dsd = rbind(conf16,-conf16[16:1,],0)
+k18_dsd = rbind(conf18,-conf18[18:1,],0)
+k20_dsd = rbind(conf20,-conf20[20:1,],0)
+k24_dsd = rbind(conf24,-conf24[24:1,],0)
 
